@@ -2,7 +2,7 @@
 
 This is a simple quiz application built using HTML, CSS, and JavaScript.
 
-![Quiz Application Screenshot](quiz-app-Demo.png)
+![Quiz Application Screenshot](https://github.com/vyshnavi-11/Quiz_APP/blob/main/Quiz-App/Demo.png)
 
 ## Table of Contents
 
