@@ -8,7 +8,6 @@ The picture below is the Demo Picture of the Quiz Application.
 ## Table of Contents
 
 - [Features](#features)
-- [Demo](#demo)
 - [Usage](#usage)
 
 ## Features
@@ -16,10 +15,6 @@ The picture below is the Demo Picture of the Quiz Application.
 - Multiple-choice questions.
 - Score tracking.
 - User-friendly interface.
-
-## Demo
-
-You can see a live demo of the quiz application [here](https://your-demo-link.com).
 
 ## Usage
 
