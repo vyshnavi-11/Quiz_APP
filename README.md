@@ -2,13 +2,12 @@
 
 This is a simple quiz application built using HTML, CSS, and JavaScript.
 
-![Quiz Application Screenshot](quiz-app-screenshot.png)
+![Quiz Application Screenshot](quiz-app-Demo.png)
 
 ## Table of Contents
 
 - [Features](#features)
 - [Demo](#demo)
-- [Getting Started](#getting-started)
 - [Usage](#usage)
 
 ## Features
@@ -21,9 +20,9 @@ This is a simple quiz application built using HTML, CSS, and JavaScript.
 
 You can see a live demo of the quiz application [here](https://your-demo-link.com).
 
-## Getting Started
+## Usage
 
-To run this quiz application locally on your machine, follow these steps:
-
-1. Clone this repository:
+1. Open the application in your web browser.
+2. Start the quiz.
+3. Your score will be displayed at the end of the quiz.
 
