@@ -10,13 +10,10 @@ This is a simple quiz application built using HTML, CSS, and JavaScript.
 - [Demo](#demo)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
 - Multiple-choice questions.
-- Timer for each question.
 - Score tracking.
 - User-friendly interface.
 
